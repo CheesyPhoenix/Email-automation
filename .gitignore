@@ -1,0 +1,4 @@
+./attachments/*
+./static-attachments/*
+body.txt
+node_modules
